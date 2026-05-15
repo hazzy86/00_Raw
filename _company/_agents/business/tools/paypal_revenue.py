@@ -67,7 +67,7 @@ def _get_access_token_full(base_url: str, client_id: str, client_secret: str) ->
         method="POST",
     )
     try:
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=60) as r:
             return json.loads(r.read().decode())
     except urllib.error.HTTPError as e:
         err_body = e.read().decode(errors="ignore")[:200]
@@ -102,7 +102,7 @@ def _fetch_transactions(base_url: str, token: str, start: datetime, end: datetim
         url = f"{base_url}/v1/reporting/transactions?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url, headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"})
         try:
-            with urllib.request.urlopen(req, timeout=20) as r:
+            with urllib.request.urlopen(req, timeout=60) as r:
                 data = json.loads(r.read().decode())
                 txs = data.get("transaction_details", [])
                 all_txs.extend(txs)
@@ -113,7 +113,7 @@ def _fetch_transactions(base_url: str, token: str, start: datetime, end: datetim
                         params["page"] = str(p)
                         url2 = f"{base_url}/v1/reporting/transactions?" + urllib.parse.urlencode(params)
                         req2 = urllib.request.Request(url2, headers={"Authorization": f"Bearer {token}"})
-                        with urllib.request.urlopen(req2, timeout=20) as r2:
+                        with urllib.request.urlopen(req2, timeout=60) as r2:
                             d2 = json.loads(r2.read().decode())
                             all_txs.extend(d2.get("transaction_details", []))
         except urllib.error.HTTPError as e:
