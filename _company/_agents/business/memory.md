@@ -38,3 +38,7 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-16] 회사 목표, 각 에이전트의 개인 목표, 최근 의사결정, 메모리를 종합하여 현재 가장 가치 있는 단일 작업 1개를 결정하고 그 이유를 제시하세요. → 산출물 sessions/2026-05-16T04-51/business.md
 - [2026-05-16] secretary가 식별한 최우선 작업에 대해 수익화 및 비즈니스 목표 관점에서 우선순위를 재평가하고, 해당 작업을 수행할 때의 KPI 지표를 설정하라. → 산출물 sessions/2026-05-16T05-06/business.md
 - [2026-05-16] WTP 데이터를 기반으로 최종 가격 플랜(Free, Standard 등)과 각 플랜별 핵심 기능 목록을 확정하고 MVP의 PRD 초안을 작성하세요. → 산출물 sessions/2026-05-16T05-36/business.md
+- [2026-05-16] 데이터 수집 실패 상황을 고려하여, 현재 확보된 메모리 및 기존 목표를 바탕으로 가장 가치 있는 단일 작업 1개를 재평가하고, 해당 작업을 수행할 때의 KPI 지표를 다시 설정하라. → 산출물 sessions/2026-05-16T09-36/business.md
+- [2026-05-16] WTP 데이터를 기반으로 가격 플랜(START, GROW, MASTER)과 각 플랜별 핵심 기능 목록을 확정하고, Feature Adoption Rate (FAR) 및 Emotional Hook Click-Through Rate (EH-CTR)에 대한 구체적인 A/B 테스트 시나리오 및 측정 방법을 정의하라. → 자격증명 부족으로 차단됨
+- [2026-05-16] 현빈아, 이번 달 PayPal 매출 실데이터 가져와서 분석하고 다음 액션 1개 추천해줘. → 산출물 sessions/2026-05-16T10-35/business.md
+- [2026-05-16] 레오가 제안한 세 가지 핵심 트렌드(감정 인식 놀이, 사회성 교육, 과학 탐구)에 기반하여 WTP 모델을 재설정하고, START/GROW/MASTER 가격 플랜별 핵심 기능 목록과 Feature Adoption Rate (FAR), Emotional Hook Click-Through Rate (EH-CTR)에 대한 구체적인 A/B 테스트 시나리오 및 측정 방법을 정의하라. → 산출물 sessions/2026-05-16T12-51/business.md
