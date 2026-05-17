@@ -16,3 +16,8 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-16] Writer가 제공한 최종 카피와 Deep Teal/Soft Coral 색상 가이드라인, 'Growth Flow' 구조를 기반으로 학부모 전환을 극대화하는 랜딩 페이지의 최종 UX/UI 레이아웃 및 디자인 시안 작업을 즉시 착수해 주세요. → 산출물 sessions/2026-05-16T13-06/designer.md
 - [2026-05-16] Writer 및 CEO 메모리에서 확정된 'Growth Flow' 구조, Deep Teal/Soft Coral 색상 가이드라인, 그리고 심리적 불안 해소 카피라이팅을 기반으로 Topic 1('감정 조절 놀이')에 대한 랜딩 페이지의 최종 UX/UI 디자인 시안 작업을 즉시 착수하라. → 산출물 sessions/2026-05-16T14-06/designer.md
 - [2026-05-16] Writer와 CEO 메모리에서 확정된 'Growth Flow' 구조, Deep Teal 및 Soft Coral 색상 가이드라인, 그리고 심리적 불안 해소 카피라이팅을 기반으로 Topic 1('감정 조절 놀이')에 대한 랜딩 페이지의 최종 UX/UI 디자인 시안 작업을 즉시 착수하고 Figma 구현을 준비하라. → 산출물 sessions/2026-05-16T14-21/designer.md
+- [2026-05-16] Topic 1('감정 조절 놀이')에 대한 'Growth Flow' 구조와 Deep Teal/Soft Coral 가이드라인을 적용하여 학부모 전환율 극대화를 위한 랜딩 페이지의 최종 UX/UI 디자인 시안 작업을 즉시 착수하고 Figma 구현을 준비하라. → 산출물 sessions/2026-05-16T17-21/designer.md
+- [2026-05-16] Writer가 작성한 스크립트 초안을 기반으로, Deep Teal/Soft Coral 가이드라인과 Growth Flow 구조를 적용하여 다음 콘텐츠에 필요한 랜딩 페이지 디자인 시안의 초기 레이아웃(Wireframe)을 착수하라. → 산출물 sessions/2026-05-16T18-06/designer.md
+- [2026-05-16] Writer가 제시할 스크립트 초안의 핵심 메시지(Growth Flow 구조)를 기반으로, Deep Teal/Soft Coral 색상을 적용한 영상 썸네일 및 초기 레이아웃 와이어프레임을 즉시 착수하라. → 산출물 sessions/2026-05-16T20-21/designer.md
+- [2026-05-16] Writer가 제시한 영상 주제 및 핵심 후크 아이디어를 기반으로, '감정 조절 놀이' 콘텐츠의 시각적 흥미를 유발할 수 있는 썸네일 및 초기 레이아웃 와이어프레임의 디자인 방향(색상/구조)을 제안하라. → 산출물 sessions/2026-05-16T22-06/designer.md
+- [2026-05-16] Researcher가 제공할 초기 데이터(트렌드/후크 아이디어)를 바탕으로, '감정 조절 놀이' 콘텐츠의 시각적 후크와 Growth Flow 구조를 적용한 영상 썸네일 및 초기 레이아웃 와이어프레임 디자인 방향을 즉시 제안하라. → 산출물 sessions/2026-05-16T23-21/designer.md
