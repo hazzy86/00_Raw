@@ -21,3 +21,5 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-16] Writer가 제시할 스크립트 초안의 핵심 메시지(Growth Flow 구조)를 기반으로, Deep Teal/Soft Coral 색상을 적용한 영상 썸네일 및 초기 레이아웃 와이어프레임을 즉시 착수하라. → 산출물 sessions/2026-05-16T20-21/designer.md
 - [2026-05-16] Writer가 제시한 영상 주제 및 핵심 후크 아이디어를 기반으로, '감정 조절 놀이' 콘텐츠의 시각적 흥미를 유발할 수 있는 썸네일 및 초기 레이아웃 와이어프레임의 디자인 방향(색상/구조)을 제안하라. → 산출물 sessions/2026-05-16T22-06/designer.md
 - [2026-05-16] Researcher가 제공할 초기 데이터(트렌드/후크 아이디어)를 바탕으로, '감정 조절 놀이' 콘텐츠의 시각적 후크와 Growth Flow 구조를 적용한 영상 썸네일 및 초기 레이아웃 와이어프레임 디자인 방향을 즉시 제안하라. → 산출물 sessions/2026-05-16T23-21/designer.md
+- [2026-05-17] Business팀이 확정한 Growth Flow 구조와 Deep Teal/Soft Coral 감성 가이드라인을 기반으로, 선정된 다음 영상 주제에 적용할 최종 시각적 후크(Visual Hook) 및 초기 레이아웃 컨셉(Wireframe) 3가지를 제안하라. → 산출물 sessions/2026-05-17T02-06/designer.md
+- [2026-05-17] 선택된 유튜브 제목과 인스타그램 스크립트를 바탕으로, 'Deep Teal/Soft Coral' 감성 가이드라인 및 Growth Flow 구조를 적용한 영상 썸네일의 초기 레이아웃 컨셉(Wireframe) 3가지를 디자인 방향으로 제안하라. → 산출물 sessions/2026-05-17T02-51/designer.md
